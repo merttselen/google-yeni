@@ -1,5 +1,3 @@
-
-
 .header {
   list-style-type: none;
   margin-top: 0;
@@ -12,7 +10,6 @@
   position: absolute;
   top: 0;
   right: 0;
-
 }
 
 .headerli a {
@@ -122,7 +119,6 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
  font: 14px Arial #5f6368;
  margin-top: 20px;
 }
-
 
 .googlesearch {
   margin: 11px 4px;
